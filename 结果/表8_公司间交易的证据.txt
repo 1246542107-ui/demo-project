@@ -1,0 +1,14 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	Credit_Cost	Credit_Asset	Credit_Sales	CCredit_Asset
+				
+Climate_y	0.0029**	0.0006**	0.0012*	0.0006**
+	(0.0014)	(0.0003)	(0.0007)	(0.0003)
+Constant	0.0153***	0.0038***	0.0100***	0.0038***
+	(0.0022)	(0.0004)	(0.0011)	(0.0004)
+				
+Observations	17,905	17,917	9,441	9,205
+Adjusted R-squared	0.132	0.297	0.308	0.240
+Sus_year FE	YES	YES		
+cus_year FE			YES	YES
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
